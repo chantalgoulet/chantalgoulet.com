@@ -1,0 +1,3585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Mariage Catherine &amp; Enrico"
+	textColor="rgba(153,153,153,1)"
+	showOpenButton="false"
+	useFullscreenExpand="true"
+	useWatermark="true"
+	watermarkPath="C:\Users\Frédéric\Documents\JuiceboxBuilder-Pro\Copyright_CGP.png"
+	watermarkHAlign="CENTER"
+	watermarkVAlign="CENTER"
+	audioUrlMp3="http://www.chantalgoulet.com/musique/mariage2017.mp3"
+	playAudioOnLoad="true"
+	enableAutoPlay="true"
+	autoPlayOnLoad="true"
+	showAutoPlayButton="true"
+	showAudioButton="true"
+	showNavButtons="true"
+	resizeOnImport="false"
+	firstImageIndex="440"
+	enableLooping="true"
+
+>
+  <image imageURL="images/CGP-CBEL-2019-08-17-1.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-1.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-1.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-1.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-2.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-2.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-2.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-2.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-2]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-3.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-3.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-3.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-3.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-3]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-4.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-4.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-4.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-4.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-4]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-5.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-5.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-5.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-5.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-5]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-6.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-6.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-6.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-6.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-6]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-7.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-7.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-7.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-7.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-7]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-8.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-8.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-8.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-8.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-8]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-9.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-9.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-9.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-9.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-9]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-10.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-10.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-10.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-10.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-10]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-11.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-11.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-11.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-11.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-11]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-12.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-12.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-12.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-12.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-12]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-13.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-13.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-13.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-13.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-13]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-14.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-14.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-14.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-14.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-14]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-15.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-15.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-15.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-15.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-15]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-16.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-16.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-16.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-16.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-16]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-17.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-17.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-17.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-17.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-17]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-18.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-18.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-18.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-18.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-18]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-19.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-19.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-19.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-19.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-19]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-20.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-20.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-20.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-20.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-20]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-21.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-21.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-21.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-21.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-21]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-22.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-22.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-22.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-22.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-22]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-23.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-23.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-23.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-23.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-23]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-24.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-24.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-24.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-24.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-24]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-25.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-25.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-25.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-25.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-25]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-26.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-26.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-26.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-26.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-26]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-27.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-27.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-27.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-27.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-27]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-28.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-28.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-28.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-28.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-28]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-29.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-29.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-29.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-29.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-29]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-30.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-30.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-30.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-30.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-30]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-31.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-31.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-31.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-31.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-31]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-32.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-32.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-32.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-32.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-32]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-33.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-33.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-33.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-33.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-33]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-34.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-34.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-34.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-34.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-34]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-35.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-35.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-35.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-35.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-35]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-36.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-36.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-36.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-36.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-36]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-37.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-37.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-37.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-37.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-37]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-38.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-38.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-38.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-38.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-38]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-39.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-39.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-39.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-39.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-39]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-40.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-40.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-40.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-40.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-40]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-41.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-41.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-41.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-41.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-41]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-42.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-42.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-42.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-42.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-42]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-43.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-43.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-43.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-43.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-43]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-44.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-44.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-44.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-44.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-44]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-45.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-45.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-45.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-45.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-45]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-46.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-46.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-46.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-46.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-46]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-47.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-47.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-47.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-47.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-47]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-48.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-48.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-48.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-48.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-48]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-49.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-49.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-49.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-49.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-49]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-50.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-50.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-50.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-50.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-50]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-51.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-51.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-51.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-51.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-51]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-52.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-52.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-52.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-52.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-52]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-53.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-53.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-53.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-53.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-53]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-54.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-54.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-54.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-54.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-54]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-55.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-55.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-55.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-55.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-55]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-56.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-56.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-56.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-56.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-56]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-57.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-57.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-57.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-57.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-57]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-58.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-58.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-58.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-58.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-58]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-59.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-59.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-59.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-59.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-59]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-60.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-60.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-60.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-60.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-60]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-61.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-61.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-61.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-61.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-61]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-62.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-62.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-62.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-62.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-62]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-63.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-63.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-63.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-63.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-63]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-64.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-64.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-64.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-64.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-64]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-65.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-65.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-65.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-65.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-65]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-66.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-66.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-66.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-66.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-66]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-67.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-67.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-67.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-67.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-67]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-68.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-68.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-68.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-68.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-68]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-69.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-69.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-69.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-69.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-69]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-70.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-70.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-70.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-70.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-70]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-71.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-71.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-71.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-71.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-71]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-72.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-72.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-72.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-72.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-72]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-73.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-73.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-73.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-73.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-73]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-74.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-74.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-74.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-74.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-74]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-75.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-75.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-75.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-75.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-75]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-76.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-76.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-76.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-76.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-76]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-77.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-77.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-77.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-77.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-77]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-78.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-78.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-78.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-78.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-78]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-79.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-79.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-79.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-79.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-79]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-80.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-80.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-80.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-80.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-80]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-81.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-81.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-81.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-81.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-81]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-82.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-82.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-82.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-82.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-82]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-83.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-83.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-83.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-83.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-83]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-84.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-84.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-84.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-84.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-84]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-85.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-85.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-85.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-85.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-85]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-86.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-86.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-86.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-86.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-86]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-87.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-87.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-87.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-87.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-87]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-88.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-88.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-88.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-88.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-88]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-89.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-89.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-89.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-89.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-89]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-90.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-90.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-90.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-90.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-90]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-91.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-91.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-91.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-91.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-91]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-92.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-92.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-92.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-92.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-92]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-93.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-93.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-93.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-93.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-93]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-94.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-94.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-94.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-94.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-94]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-95.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-95.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-95.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-95.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-95]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-96.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-96.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-96.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-96.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-96]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-97.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-97.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-97.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-97.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-97]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-98.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-98.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-98.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-98.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-98]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-99.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-99.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-99.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-99.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-99]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-100.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-100.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-100.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-100.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-100]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-101.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-101.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-101.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-101.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-101]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-102.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-102.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-102.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-102.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-102]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-103.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-103.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-103.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-103.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-103]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-104.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-104.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-104.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-104.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-104]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-105.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-105.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-105.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-105.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-105]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-106.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-106.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-106.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-106.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-106]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-107.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-107.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-107.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-107.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-107]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-108.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-108.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-108.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-108.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-108]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-109.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-109.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-109.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-109.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-109]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-110.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-110.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-110.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-110.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-110]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-111.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-111.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-111.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-111.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-111]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-112.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-112.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-112.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-112.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-112]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-113.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-113.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-113.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-113.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-113]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-114.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-114.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-114.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-114.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-114]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-115.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-115.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-115.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-115.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-115]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-116.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-116.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-116.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-116.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-116]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-117.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-117.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-117.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-117.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-117]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-118.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-118.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-118.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-118.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-118]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-119.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-119.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-119.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-119.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-119]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-120.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-120.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-120.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-120.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-120]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-121.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-121.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-121.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-121.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-121]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-122.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-122.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-122.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-122.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-122]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-123.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-123.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-123.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-123.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-123]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-124.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-124.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-124.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-124.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-124]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-125.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-125.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-125.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-125.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-125]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-126.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-126.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-126.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-126.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-126]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-127.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-127.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-127.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-127.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-127]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-128.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-128.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-128.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-128.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-128]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-129.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-129.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-129.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-129.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-129]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-130.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-130.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-130.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-130.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-130]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-131.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-131.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-131.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-131.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-131]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-132.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-132.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-132.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-132.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-132]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-133.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-133.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-133.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-133.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-133]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-134.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-134.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-134.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-134.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-134]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-135.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-135.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-135.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-135.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-135]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-136.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-136.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-136.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-136.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-136]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-137.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-137.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-137.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-137.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-137]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-138.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-138.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-138.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-138.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-138]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-139.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-139.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-139.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-139.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-139]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-140.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-140.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-140.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-140.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-140]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-141.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-141.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-141.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-141.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-141]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-142.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-142.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-142.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-142.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-142]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-143.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-143.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-143.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-143.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-143]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-144.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-144.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-144.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-144.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-144]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-145.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-145.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-145.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-145.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-145]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-146.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-146.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-146.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-146.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-146]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-147.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-147.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-147.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-147.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-147]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-148.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-148.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-148.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-148.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-148]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-149.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-149.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-149.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-149.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-149]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-150.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-150.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-150.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-150.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-150]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-151.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-151.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-151.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-151.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-151]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-152.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-152.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-152.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-152.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-152]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-153.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-153.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-153.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-153.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-153]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-154.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-154.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-154.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-154.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-154]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-155.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-155.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-155.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-155.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-155]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-156.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-156.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-156.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-156.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-156]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-157.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-157.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-157.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-157.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-157]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-158.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-158.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-158.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-158.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-158]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-159.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-159.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-159.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-159.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-159]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-160.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-160.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-160.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-160.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-160]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-161.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-161.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-161.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-161.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-161]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-162.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-162.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-162.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-162.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-162]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-163.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-163.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-163.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-163.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-163]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-164.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-164.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-164.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-164.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-164]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-165.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-165.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-165.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-165.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-165]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-166.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-166.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-166.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-166.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-166]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-167.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-167.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-167.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-167.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-167]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-168.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-168.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-168.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-168.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-168]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-169.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-169.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-169.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-169.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-169]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-170.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-170.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-170.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-170.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-170]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-171.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-171.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-171.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-171.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-171]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-172.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-172.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-172.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-172.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-172]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-173.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-173.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-173.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-173.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-173]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-174.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-174.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-174.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-174.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-174]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-175.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-175.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-175.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-175.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-175]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-176.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-176.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-176.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-176.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-176]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-177.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-177.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-177.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-177.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-177]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-178.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-178.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-178.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-178.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-178]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-179.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-179.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-179.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-179.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-179]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-180.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-180.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-180.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-180.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-180]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-181.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-181.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-181.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-181.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-181]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-182.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-182.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-182.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-182.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-182]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-183.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-183.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-183.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-183.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-183]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-184.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-184.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-184.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-184.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-184]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-185.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-185.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-185.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-185.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-185]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-186.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-186.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-186.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-186.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-186]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-187.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-187.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-187.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-187.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-187]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-188.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-188.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-188.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-188.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-188]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-189.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-189.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-189.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-189.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-189]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-190.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-190.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-190.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-190.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-190]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-191.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-191.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-191.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-191.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-191]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-192.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-192.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-192.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-192.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-192]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-193.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-193.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-193.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-193.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-193]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-194.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-194.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-194.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-194.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-194]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-195.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-195.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-195.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-195.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-195]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-196.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-196.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-196.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-196.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-196]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-197.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-197.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-197.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-197.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-197]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-198.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-198.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-198.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-198.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-198]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-199.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-199.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-199.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-199.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-199]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-200.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-200.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-200.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-200.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-200]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-201.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-201.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-201.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-201.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-201]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-202.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-202.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-202.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-202.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-202]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-203.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-203.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-203.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-203.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-203]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-204.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-204.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-204.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-204.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-204]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-205.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-205.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-205.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-205.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-205]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-206.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-206.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-206.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-206.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-206]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-207.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-207.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-207.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-207.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-207]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-208.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-208.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-208.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-208.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-208]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-209.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-209.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-209.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-209.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-209]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-210.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-210.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-210.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-210.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-210]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-211.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-211.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-211.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-211.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-211]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-212.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-212.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-212.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-212.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-212]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-213.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-213.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-213.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-213.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-213]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-214.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-214.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-214.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-214.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-214]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-215.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-215.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-215.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-215.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-215]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-216.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-216.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-216.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-216.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-216]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-217.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-217.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-217.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-217.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-217]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-218.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-218.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-218.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-218.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-218]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-219.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-219.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-219.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-219.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-219]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-220.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-220.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-220.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-220.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-220]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-221.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-221.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-221.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-221.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-221]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-222.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-222.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-222.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-222.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-222]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-223.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-223.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-223.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-223.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-223]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-224.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-224.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-224.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-224.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-224]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-225.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-225.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-225.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-225.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-225]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-226.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-226.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-226.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-226.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-226]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-227.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-227.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-227.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-227.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-227]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-228.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-228.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-228.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-228.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-228]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-229.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-229.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-229.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-229.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-229]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-230.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-230.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-230.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-230.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-230]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-231.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-231.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-231.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-231.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-231]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-232.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-232.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-232.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-232.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-232]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-233.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-233.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-233.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-233.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-233]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-234.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-234.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-234.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-234.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-234]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-235.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-235.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-235.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-235.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-235]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-236.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-236.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-236.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-236.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-236]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-237.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-237.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-237.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-237.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-237]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-238.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-238.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-238.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-238.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-238]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-239.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-239.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-239.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-239.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-239]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-240.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-240.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-240.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-240.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-240]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-241.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-241.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-241.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-241.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-241]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-242.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-242.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-242.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-242.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-242]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-243.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-243.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-243.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-243.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-243]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-244.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-244.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-244.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-244.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-244]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-245.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-245.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-245.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-245.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-245]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-246.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-246.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-246.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-246.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-246]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-247.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-247.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-247.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-247.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-247]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-248.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-248.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-248.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-248.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-248]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-249.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-249.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-249.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-249.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-249]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-250.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-250.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-250.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-250.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-250]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-251.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-251.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-251.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-251.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-251]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-252.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-252.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-252.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-252.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-252]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-253.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-253.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-253.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-253.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-253]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-254.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-254.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-254.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-254.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-254]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-255.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-255.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-255.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-255.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-255]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-256.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-256.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-256.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-256.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-256]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-257.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-257.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-257.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-257.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-257]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-258.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-258.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-258.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-258.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-258]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-259.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-259.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-259.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-259.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-259]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-260.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-260.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-260.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-260.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-260]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-261.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-261.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-261.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-261.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-261]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-262.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-262.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-262.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-262.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-262]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-263.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-263.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-263.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-263.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-263]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-264.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-264.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-264.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-264.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-264]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-265.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-265.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-265.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-265.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-265]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-266.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-266.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-266.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-266.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-266]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-267.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-267.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-267.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-267.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-267]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-268.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-268.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-268.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-268.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-268]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-269.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-269.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-269.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-269.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-269]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-270.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-270.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-270.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-270.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-270]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-271.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-271.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-271.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-271.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-271]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-272.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-272.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-272.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-272.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-272]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-273.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-273.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-273.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-273.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-273]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-274.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-274.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-274.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-274.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-274]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-275.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-275.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-275.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-275.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-275]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-276.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-276.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-276.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-276.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-276]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-277.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-277.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-277.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-277.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-277]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-278.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-278.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-278.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-278.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-278]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-279.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-279.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-279.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-279.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-279]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-280.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-280.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-280.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-280.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-280]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-281.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-281.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-281.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-281.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-281]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-282.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-282.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-282.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-282.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-282]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-283.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-283.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-283.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-283.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-283]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-284.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-284.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-284.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-284.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-284]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-285.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-285.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-285.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-285.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-285]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-286.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-286.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-286.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-286.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-286]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-287.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-287.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-287.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-287.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-287]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-288.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-288.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-288.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-288.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-288]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-289.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-289.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-289.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-289.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-289]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-290.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-290.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-290.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-290.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-290]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-291.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-291.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-291.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-291.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-291]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-292.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-292.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-292.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-292.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-292]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-293.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-293.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-293.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-293.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-293]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-294.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-294.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-294.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-294.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-294]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-295.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-295.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-295.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-295.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-295]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-296.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-296.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-296.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-296.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-296]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-297.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-297.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-297.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-297.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-297]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-298.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-298.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-298.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-298.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-298]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-299.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-299.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-299.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-299.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-299]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-300.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-300.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-300.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-300.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-300]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-301.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-301.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-301.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-301.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-301]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-302.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-302.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-302.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-302.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-302]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-303.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-303.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-303.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-303.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-303]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-304.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-304.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-304.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-304.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-304]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-305.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-305.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-305.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-305.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-305]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-306.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-306.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-306.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-306.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-306]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-307.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-307.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-307.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-307.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-307]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-308.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-308.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-308.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-308.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-308]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-309.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-309.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-309.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-309.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-309]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-310.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-310.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-310.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-310.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-310]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-311.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-311.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-311.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-311.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-311]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-312.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-312.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-312.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-312.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-312]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-313.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-313.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-313.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-313.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-313]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-314.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-314.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-314.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-314.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-314]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-315.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-315.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-315.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-315.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-315]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-316.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-316.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-316.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-316.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-316]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-317.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-317.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-317.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-317.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-317]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-318.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-318.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-318.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-318.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-318]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-319.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-319.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-319.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-319.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-319]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-320.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-320.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-320.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-320.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-320]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-321.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-321.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-321.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-321.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-321]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-322.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-322.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-322.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-322.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-322]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-323.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-323.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-323.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-323.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-323]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-324.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-324.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-324.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-324.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-324]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-325.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-325.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-325.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-325.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-325]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-326.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-326.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-326.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-326.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-326]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-327.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-327.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-327.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-327.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-327]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-328.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-328.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-328.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-328.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-328]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-329.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-329.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-329.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-329.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-329]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-330.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-330.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-330.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-330.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-330]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-331.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-331.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-331.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-331.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-331]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-332.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-332.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-332.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-332.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-332]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-333.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-333.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-333.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-333.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-333]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-334.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-334.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-334.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-334.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-334]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-335.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-335.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-335.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-335.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-335]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-336.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-336.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-336.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-336.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-336]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-337.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-337.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-337.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-337.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-337]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-338.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-338.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-338.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-338.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-338]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-339.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-339.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-339.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-339.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-339]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-340.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-340.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-340.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-340.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-340]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-341.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-341.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-341.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-341.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-341]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-342.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-342.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-342.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-342.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-342]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-343.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-343.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-343.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-343.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-343]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-344.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-344.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-344.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-344.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-344]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-345.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-345.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-345.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-345.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-345]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-346.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-346.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-346.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-346.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-346]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-347.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-347.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-347.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-347.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-347]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-348.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-348.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-348.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-348.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-348]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-349.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-349.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-349.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-349.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-349]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-350.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-350.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-350.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-350.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-350]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-351.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-351.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-351.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-351.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-351]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-352.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-352.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-352.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-352.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-352]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-353.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-353.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-353.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-353.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-353]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-354.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-354.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-354.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-354.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-354]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-355.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-355.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-355.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-355.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-355]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-356.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-356.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-356.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-356.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-356]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-357.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-357.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-357.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-357.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-357]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-358.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-358.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-358.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-358.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-358]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-359.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-359.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-359.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-359.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-359]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-360.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-360.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-360.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-360.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-360]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-361.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-361.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-361.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-361.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-361]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-362.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-362.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-362.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-362.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-362]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-363.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-363.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-363.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-363.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-363]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-364.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-364.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-364.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-364.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-364]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-365.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-365.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-365.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-365.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-365]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-366.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-366.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-366.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-366.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-366]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-367.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-367.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-367.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-367.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-367]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-368.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-368.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-368.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-368.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-368]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-369.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-369.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-369.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-369.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-369]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-370.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-370.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-370.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-370.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-370]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-371.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-371.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-371.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-371.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-371]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-372.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-372.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-372.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-372.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-372]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-373.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-373.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-373.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-373.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-373]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-374.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-374.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-374.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-374.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-374]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-375.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-375.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-375.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-375.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-375]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-376.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-376.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-376.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-376.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-376]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-377.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-377.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-377.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-377.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-377]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-378.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-378.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-378.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-378.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-378]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-379.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-379.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-379.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-379.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-379]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-380.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-380.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-380.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-380.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-380]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-381.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-381.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-381.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-381.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-381]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-382.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-382.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-382.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-382.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-382]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-383.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-383.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-383.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-383.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-383]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-384.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-384.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-384.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-384.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-384]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-385.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-385.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-385.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-385.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-385]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-386.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-386.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-386.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-386.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-386]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-387.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-387.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-387.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-387.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-387]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-388.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-388.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-388.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-388.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-388]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-389.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-389.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-389.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-389.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-389]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-390.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-390.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-390.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-390.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-390]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-391.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-391.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-391.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-391.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-391]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-392.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-392.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-392.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-392.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-392]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-393.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-393.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-393.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-393.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-393]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-394.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-394.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-394.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-394.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-394]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-395.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-395.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-395.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-395.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-395]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-396.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-396.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-396.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-396.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-396]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-397.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-397.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-397.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-397.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-397]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-398.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-398.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-398.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-398.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-398]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-399.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-399.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-399.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-399.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-399]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-400.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-400.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-400.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-400.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-400]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-401.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-401.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-401.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-401.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-401]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-402.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-402.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-402.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-402.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-402]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-403.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-403.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-403.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-403.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-403]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-404.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-404.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-404.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-404.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-404]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-405.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-405.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-405.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-405.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-405]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-406.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-406.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-406.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-406.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-406]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-407.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-407.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-407.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-407.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-407]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-408.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-408.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-408.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-408.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-408]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-409.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-409.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-409.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-409.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-409]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-410.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-410.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-410.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-410.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-410]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-411.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-411.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-411.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-411.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-411]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-412.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-412.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-412.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-412.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-412]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-413.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-413.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-413.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-413.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-413]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-414.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-414.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-414.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-414.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-414]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-415.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-415.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-415.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-415.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-415]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-416.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-416.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-416.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-416.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-416]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-417.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-417.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-417.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-417.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-417]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-418.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-418.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-418.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-418.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-418]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-419.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-419.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-419.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-419.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-419]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-420.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-420.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-420.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-420.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-420]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-421.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-421.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-421.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-421.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-421]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-422.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-422.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-422.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-422.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-422]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-423.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-423.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-423.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-423.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-423]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-424.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-424.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-424.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-424.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-424]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-425.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-425.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-425.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-425.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-425]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-426.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-426.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-426.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-426.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-426]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-427.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-427.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-427.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-427.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-427]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-428.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-428.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-428.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-428.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-428]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-429.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-429.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-429.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-429.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-429]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-430.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-430.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-430.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-430.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-430]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-431.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-431.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-431.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-431.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-431]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-432.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-432.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-432.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-432.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-432]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-433.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-433.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-433.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-433.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-433]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-434.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-434.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-434.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-434.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-434]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-435.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-435.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-435.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-435.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-435]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-436.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-436.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-436.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-436.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-436]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-437.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-437.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-437.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-437.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-437]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-438.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-438.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-438.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-438.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-438]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CGP-CBEL-2019-08-17-439.jpg"
+	thumbURL="thumbs/CGP-CBEL-2019-08-17-439.jpg"
+	linkURL="images/CGP-CBEL-2019-08-17-439.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\CGP-CBEL-2019-08-17-439.jpg">
+    <title><![CDATA[CGP-CBEL-2019-08-17-439]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/A-DETAILS-1.jpg"
+	thumbURL="thumbs/A-DETAILS-1.jpg"
+	linkURL="images/A-DETAILS-1.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\A-DETAILS-1.jpg">
+    <title><![CDATA[A-DETAILS-1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/A-DETAILS-2.jpg"
+	thumbURL="thumbs/A-DETAILS-2.jpg"
+	linkURL="images/A-DETAILS-2.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\A-DETAILS-2.jpg">
+    <title><![CDATA[A-DETAILS-2]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/A-DETAILS-3.jpg"
+	thumbURL="thumbs/A-DETAILS-3.jpg"
+	linkURL="images/A-DETAILS-3.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\A-DETAILS-3.jpg">
+    <title><![CDATA[A-DETAILS-3]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/A-DETAILS-4.jpg"
+	thumbURL="thumbs/A-DETAILS-4.jpg"
+	linkURL="images/A-DETAILS-4.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\A-DETAILS-4.jpg">
+    <title><![CDATA[A-DETAILS-4]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/A-DETAILS-5.jpg"
+	thumbURL="thumbs/A-DETAILS-5.jpg"
+	linkURL="images/A-DETAILS-5.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\A-DETAILS-5.jpg">
+    <title><![CDATA[A-DETAILS-5]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/A-DETAILS-6.jpg"
+	thumbURL="thumbs/A-DETAILS-6.jpg"
+	linkURL="images/A-DETAILS-6.jpg"
+	linkTarget="_blank"
+	sourcePath="J:\Reductions\JPEG\A-DETAILS-6.jpg">
+    <title><![CDATA[A-DETAILS-6]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
